@@ -1,2 +1,2 @@
 # TANG
-Repository for all TANG-related code
+Like RAMPS but for dumb shit
