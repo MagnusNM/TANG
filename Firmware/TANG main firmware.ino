@@ -11,8 +11,8 @@
 #define si7021Addr 0x40
 
 // Replace the next variables with your SSID/Password combination
-const char* ssid = "MNM";
-const char* password = "k1gju32mnm";
+const char* ssid = "pls";
+const char* password = "rip";
 
 // Add your MQTT Broker IP address, example:
 //const char* mqtt_server = "192.168.1.144";
